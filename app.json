@@ -1,5 +1,5 @@
 {
-    "name": "JIMBROOTAN V-2.0 ☑️",
+    "name": "KASHII LOVER V-2.0 ☑️",
     "description": "JIMBROOTAN V2.0 - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://avatars.githubusercontent.com/u/72667834?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
@@ -34,7 +34,7 @@
          "STICKER_REPLY": {
             "description": "if you need Automatic sticker reply type'true'. Otherwise false",
             "required": false,
-            "value": "true"
+            "value": "KASHII MISHII"
         },  
          "THERI_KICK": {
             "description": "THERI VILICHAL KICK IF TRUE , just keep it false as this option is under maintanance ",
@@ -54,7 +54,7 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "KASHII LOVE MISHII"
         },    
         "HANDLERS": {
             "description": "For commands.",
@@ -69,12 +69,12 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply jimbrootan to identify)",
             "required": false,
-            "value": "JIMBROOTAN"
+            "value": "KASHII LOVER"
         },
         "DEP_NAME": {
             "description": "bot deployer name make it short  (for auto reply jimbroootan to identify)",
             "required": false,
-            "value": "Mikhaiel"
+            "value": "KASHII MISHII"
         },
         "BOT_REPLY": {
             "description": "enter the repply message you want when deployer name is typed by users  (for auto reply jimbrootan to identify)",
@@ -109,7 +109,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━ JIMBROOTAN V-2.0 ━━━•"
+            "value": "•━━━━ KASHII LOVER V-2.0 ━━━•"
         },
         "HEROKU_API_KEY": {
             "description": "Heroku API Key.",
